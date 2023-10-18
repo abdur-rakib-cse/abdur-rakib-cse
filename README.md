@@ -35,6 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdur-rakib-cse&show_icons=true&locale=en" alt="abdur-rakib-cse" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdur-rakib-cse&" alt="abdur-rakib-cse" /></p>
-![IMG_5055](https://github.com/abdur-rakib-cse/abdur-rakib-cse/assets/67870097/94790965-3714-4eac-9edd-527d59faf059)
+
+![image](https://github.com/abdur-rakib-cse/abdur-rakib-cse/assets/67870097/abe8b587-4546-4fbb-844a-c63edb10ca55)
 
 
